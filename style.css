@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+}
+
+header{
+    height: 100px;
+    background-color: black;
+}
+.logo{
+    height: 80px;
+}
+main{
+    height: 100px;
+    background-color: yellow;
+}
+footer{
+    height: 100px;
+    background-color: gray;
+}
